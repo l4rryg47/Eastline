@@ -81,7 +81,7 @@ export default function ContactPage() {
     {
       icon: MapPinIcon,
       title: 'Headquarters',
-      description: '123 Energy Plaza, Suite 1000\nHouston, TX 77002',
+      description: '124 Energy Plaza, Suite 1000\nHouston, TX 77002',
     },
     {
       icon: PhoneIcon,
