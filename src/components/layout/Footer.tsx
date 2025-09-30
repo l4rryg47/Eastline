@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="space-y-8 xl:col-span-1">
             <div>
               <h3 className="text-white text-2xl font-bold">
-                <span className="text-primary-400">Eastline</span> Shippers
+                <span className="text-primary-400">Eastline Shipping LLC</span>
               </h3>
               <p className="mt-4 text-base text-gray-400">
                 Delivering energy solutions worldwide with safety, efficiency, and environmental responsibility.
@@ -41,16 +41,16 @@ export default function Footer() {
               <div className="flex items-start">
                 <MapPinIcon className="h-6 w-6 flex-shrink-0 text-primary-400 mr-3 mt-1" />
                 <div>
-                  <p className="text-white font-medium">Headquarters</p>
-                  <p className="text-gray-400">123 Energy Plaza, Suite 1000<br />Houston, TX 77002</p>
+                  <p className="text-white font-medium">Address</p>
+                  <p className="text-gray-400">1998 Highway 73<br />Port Arthur, TX, 77640-1759<br />United States America</p>
                 </div>
               </div>
               
               <div className="flex items-start">
                 <PhoneIcon className="h-5 w-5 flex-shrink-0 text-primary-400 mr-3 mt-1" />
                 <div>
-                  <p className="text-white font-medium">Contact Us</p>
-                  <p className="text-gray-400">+1 (800) 555-0199<br />info@eastlineshippers.com</p>
+                  <p className="text-white font-medium">Contact</p>
+                  <p className="text-gray-400">Tel: +1 (409) 247-1476</p>
                 </div>
               </div>
               

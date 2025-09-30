@@ -35,9 +35,13 @@ export default function Header() {
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8" aria-label="Global">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <Link href="/" className="flex-shrink-0">
-              <span className="text-2xl font-bold text-primary-700">Eastline</span>
-              <span className="text-2xl font-bold text-gray-800">Shippers</span>
+            <Link href="/" className="flex-shrink-0 flex items-center space-x-2">
+              <img 
+                src="/images/eastline-logo.png" 
+                alt="Eastline Shipping Logo" 
+                className="h-16 w-auto" 
+              />
+              <span className="text-2xl font-bold text-primary-700">Eastline Shipping LLC</span>
             </Link>
           </div>
           

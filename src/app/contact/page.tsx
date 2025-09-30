@@ -80,13 +80,13 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: MapPinIcon,
-      title: 'Headquarters',
-      description: '124 Energy Plaza, Suite 1000\nHouston, TX 77002',
+      title: 'Address',
+      description: '1998 Highway 73\nPort Arthur, TX, 77640-1759\nUnited States America',
     },
     {
       icon: PhoneIcon,
       title: 'Contact',
-      description: '+1 (800) 555-0199\ninfo@eastlineshippers.com',
+      description: 'Tel: +1 (409) 247-1476',
     },
     {
       icon: ClockIcon,
