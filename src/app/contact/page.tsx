@@ -84,6 +84,11 @@ export default function ContactPage() {
       description: '1998 Highway 73\nPort Arthur, TX, 77640-1759\nUnited States America',
     },
     {
+      icon: EnvelopeIcon,
+      title: 'Email',
+      description: 'info@eastlineshippers.com\nvessel.chartering@eastlineshippers.com',
+    },
+    {
       icon: PhoneIcon,
       title: 'Contact',
       description: 'Tel: +1 (409) 247-1476',
