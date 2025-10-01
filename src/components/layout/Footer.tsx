@@ -55,6 +55,14 @@ export default function Footer() {
               </div>
               
               <div className="flex items-start">
+                <EnvelopeIcon className="h-5 w-5 flex-shrink-0 text-primary-400 mr-3 mt-1" />
+                <div>
+                  <p className="text-white font-medium">Email</p>
+                  <p className="text-gray-400">info@eastlineshippers.com</p>
+                </div>
+              </div>
+              
+              <div className="flex items-start">
                 <ClockIcon className="h-5 w-5 flex-shrink-0 text-primary-400 mr-3 mt-1" />
                 <div>
                   <p className="text-white font-medium">Business Hours</p>
